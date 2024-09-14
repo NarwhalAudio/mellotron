@@ -1,0 +1,189 @@
+<global>
+amp_velcurve_1=1
+sw_lokey=0 sw_hikey=24 sw_default=0
+pitch=-15
+pitch_random=30
+
+// GC3 Brass
+<control>
+default_path=./Samples/Brass/GC3 Brass/
+
+<group>
+sw_last=0 sw_label=GC3 Brass
+#include "sample_map.sfz"
+
+// Mixed Brass B
+<control>
+default_path=./Samples/Brass/Mixed Brass B/
+
+<group>
+sw_last=1 sw_label=Mixed Brass B
+#include "sample_map.sfz"
+
+// MkII Combined Brass
+<control>
+default_path=./Samples/Brass/MkII Combined Brass/
+
+<group>
+sw_last=2 sw_label=MkII Combined Brass
+#include "sample_map.sfz"
+
+// Tenor & Alto Sax
+<control>
+default_path=./Samples/Brass/Tenor & Alto Sax/
+
+<group>
+sw_last=3 sw_label=Tenor & Alto Sax
+#include "sample_map.sfz"
+
+// Tenor Sax
+<control>
+default_path=./Samples/Brass/Tenor Sax/
+
+<group>
+sw_last=4 sw_label=Tenor Sax
+#include "sample_map.sfz"
+
+// Trombone
+<control>
+default_path=./Samples/Brass/Trombone/
+
+<group>
+sw_last=5 sw_label=Trombone
+#include "sample_map.sfz"
+
+// Trombone & Trumpet
+<control>
+default_path=./Samples/Brass/Trombone & Trumpet/
+
+<group>
+sw_last=6 sw_label=Trombone & Trumpet
+#include "sample_map.sfz"
+
+// Trumpet
+<control>
+default_path=./Samples/Brass/Trumpet/
+
+<group>
+sw_last=7 sw_label=Trumpet
+#include "sample_map.sfz"
+
+// Church Organ (Lowrey)
+<control>
+default_path=./Samples/Keys/MkII Church Organ (Lowrey)/
+
+<group>
+sw_last=8 sw_label=MkII Church Organ (Lowrey)
+#include "sample_map.sfz"
+
+// Church Pipe Organ
+<control>
+default_path=./Samples/Keys/St John's Wood Church Organ/
+
+<group>
+sw_last=9 sw_label=St John's Wood Church Organ
+#include "sample_map.sfz"
+
+// Italian Accordion
+<control>
+default_path=./Samples/Keys/Italian Accordion/
+
+<group>
+sw_last=10 sw_label=Italian Accordion
+#include "sample_map.sfz"
+
+// Vibes
+<control>
+default_path=./Samples/Keys/Vibes/
+
+<group>
+sw_last=11 sw_label=Vibes
+#include "sample_map.sfz"
+
+// Cello
+<control>
+default_path=./Samples/Strings/Cello/
+
+<group>
+sw_last=12 sw_label=Cello
+#include "sample_map.sfz"
+
+// M300A (two violins)
+<control>
+default_path=./Samples/Strings/M300A (two violins)/
+
+<group>
+sw_last=13 sw_label=M300A (two violins)
+#include "sample_map.sfz"
+
+// M300B (solo violin)
+<control>
+default_path=./Samples/Strings/M300B (solo violin)/
+
+<group>
+sw_last=14 sw_label=M300B (solo violin)
+#include "sample_map.sfz"
+
+// MkII Violins
+<control>
+default_path=./Samples/Strings/MkII Violins/
+
+<group>
+sw_last=15 sw_label=MkII Violins
+#include "sample_map.sfz"
+
+// Orchestra
+<control>
+default_path=./Samples/Strings/Orchestra/
+
+<group>
+sw_last=16 sw_label=Orchestra
+#include "sample_map.sfz"
+
+// String Section
+<control>
+default_path=./Samples/Strings/String Section/
+
+<group>
+sw_last=17 sw_label=String Section
+#include "sample_map.sfz"
+
+// 8 Choir
+<control>
+default_path=./Samples/Voices/8 Choir/
+
+<group>
+sw_last=18 sw_label=8 Choir
+#include "sample_map.sfz"
+
+// Combined Choir
+<control>
+default_path=./Samples/Voices/Combined Choir/
+
+<group>
+sw_last=19 sw_label=Combined Choir
+#include "sample_map.sfz"
+
+// Bassoon
+<control>
+default_path=./Samples/Woodwinds/Bassoon/
+
+<group>
+sw_last=20 sw_label=Bassoon
+#include "sample_map.sfz"
+
+// MkII Flute
+<control>
+default_path=./Samples/Woodwinds/MkII Flute/
+
+<group>
+sw_last=21 sw_label=MkII Flute
+#include "sample_map.sfz"
+
+// Woodwind 2
+<control>
+default_path=./Samples/Woodwinds/Woodwind 2/
+
+<group>
+sw_last=22 sw_label=Woodwind 2
+#include "sample_map.sfz"

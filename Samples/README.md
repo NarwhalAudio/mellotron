@@ -1,0 +1,5 @@
+# Mellotron Samples
+
+These samples were recorded by taijiguy and were downloaded from http://www.leisureland.us/mellotron.htm. Not much information is given there, but more can be found on an [archived version of the site](https://web.archive.org/web/20210128123353/http://leisureland.us/audio/MellotronSamples/MellotronSamples.htm):
+
+"These samples were taken from a 1973 M400S Mellotron, serial #500. The 3 Violins and Combined Brass were sampled in 2003. The String Section, Combined Choir, GC3 Brass, M300A, M300B and Woodwind 2 were sampled in 2008. The MkII Flute and Cello were sampled in 2010. The first 5 notes of the Cello were produced by a double bass, hence, the difference in sound from the rest of the notes. The tapes and frames were brand new when sampled. The 3 Violins sound is the MkII Violins and not the M400 violins, which are really the MkII violins with the top end rolled off. The samples were recorded "hot" with the tone control fully clockwise. ... Each sample is approximately 7 seconds in length and has not been looped, so the "spider technique" commonly used for playing Mellotrons is an important skill to develop."
